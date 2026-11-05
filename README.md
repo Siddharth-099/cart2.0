@@ -1,16 +1,81 @@
-# React + Vite
+# 🛒 Online Shopping E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Online Shopping E-Commerce Website developed using React.js, JavaScript, HTML, CSS, and Bootstrap. This project focuses on providing a user-friendly shopping experience with interactive UI components and responsive product listing pages.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Frontend
 
-## React Compiler
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+* Responsive user interface.
+* Product listing and display.
+* Interactive shopping pages.
+* Dynamic UI components using React.js.
+* Responsive design for different screen sizes.
+* Interactive frontend functionality using JavaScript.
+* Clean and user-friendly layout.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+
+```text
+Online-Shopping-E-Commerce/
+│
+├── public/
+├── src/
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── other configuration files
+```
+
+## ⚙️ Installation and Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Siddharth-099/cart2.0.git
+```
+
+### 2. Navigate to Project Folder
+
+```bash
+cd cart2.0
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start Development Server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view the website.
+
+## 📌 Project Status
+
+**✅ Completed**
+
+This project has been successfully completed. It demonstrates frontend development skills using React.js, JavaScript, HTML, CSS, and Bootstrap.
+
+## 👨‍💻 Developer
+
+**Siddharth Patel**
+
+* GitHub: [Siddharth-099](https://github.com/Siddharth-099)
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository!
